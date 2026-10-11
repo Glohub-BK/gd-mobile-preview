@@ -1,47 +1,47 @@
 {
-  "version": "2026-10-11-gd-g3-v1",
+  "version": "2026-10-11-gd-g3-v2",
   "publicPreview": true,
   "youtubeChanges": false,
   "files": [
     {
       "path": "README.md",
-      "bytes": 321,
-      "sha256": "516beebc1183f62ab3ca9a7c9dfc86ae665eb21222709b4e311e8f742b576439"
+      "bytes": 349,
+      "sha256": "c70b537408d389b51b2fbe35c5a6814b096f4732964de4fc607e14abaee5faff"
     },
     {
-      "path": "gd-g3-part1-delay_master.mp4",
-      "bytes": 28072715,
-      "sha256": "f20cfed18d7a180b0a37d82e7b29612ed161f060ab19b281561a73d85b521a4d"
+      "path": "gd-g3v2-part1-return_master.mp4",
+      "bytes": 24027272,
+      "sha256": "939df88c630ca357157cdcc4399a871001e6718831413935176351131010720f"
     },
     {
-      "path": "gd-g3-part2-apology_master.mp4",
-      "bytes": 29624318,
-      "sha256": "621d3f8b3fe79fb1d2258d646b5731f7479cea50866d99b058d7e4f56d6406ff"
+      "path": "gd-g3v2-part2-firstsong_master.mp4",
+      "bytes": 29420975,
+      "sha256": "164e8872c37b2b9d28fcac7b2a8e563b6237acf373d75a45ea84af3de3a7f4ba"
     },
     {
-      "path": "gd-g3-part3-encore_master.mp4",
-      "bytes": 26256813,
-      "sha256": "8b5c6c9ace6fe8101f5e7fe09775c4f551351378f2584d74cb142cda396e83de"
+      "path": "gd-g3v2-part3-roof_master.mp4",
+      "bytes": 28583023,
+      "sha256": "a45aebd87ba88ffcb5f3ae0c427aeda07f4b639bdedf16ad0358897bfd293c2d"
     },
     {
       "path": "index.html",
-      "bytes": 3346,
-      "sha256": "b63aa8c56d654e787457d6d7a9bea97c368e55afbc59d2afc86f21e75daac838"
+      "bytes": 3383,
+      "sha256": "c243c65d317063bbaaac338a6fe3eacf11ce2d1ac6435f21abc61a38cda94980"
     },
     {
-      "path": "posters/gd-g3-part1-delay.jpg",
-      "bytes": 37419,
-      "sha256": "f28909f9a150293213ccb935f12bcdeebcf034453618c62275ff1e5cebe9730e"
+      "path": "posters/gd-g3v2-part1-return.jpg",
+      "bytes": 33483,
+      "sha256": "972f6cf18e4fa157633342fe92c54925132a7429d34d6d163eb093194d46e280"
     },
     {
-      "path": "posters/gd-g3-part2-apology.jpg",
-      "bytes": 34482,
-      "sha256": "0c00352ccedf3c226a70542413d4b579916d61cbc0fb460e40a3e65fe1a8d787"
+      "path": "posters/gd-g3v2-part2-firstsong.jpg",
+      "bytes": 40002,
+      "sha256": "e0b17d9ef4b05576640492605e5cd4d1cf75178766ede7b174d062efd685f3c8"
     },
     {
-      "path": "posters/gd-g3-part3-encore.jpg",
-      "bytes": 40254,
-      "sha256": "0878139f0ee10b5b9d873846d034d77d59c6b4addf825a32387bccfe07a0aa7c"
+      "path": "posters/gd-g3v2-part3-roof.jpg",
+      "bytes": 39323,
+      "sha256": "882c395c697c444c11c9049fcbf4efd9e189c02c3ebb6c4f76b5a6902ec90cf0"
     }
   ]
 }
