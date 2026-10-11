@@ -1,0 +1,47 @@
+{
+  "version": "2026-10-11-gd-g3-v1",
+  "publicPreview": true,
+  "youtubeChanges": false,
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 321,
+      "sha256": "516beebc1183f62ab3ca9a7c9dfc86ae665eb21222709b4e311e8f742b576439"
+    },
+    {
+      "path": "gd-g3-part1-delay_master.mp4",
+      "bytes": 28072715,
+      "sha256": "f20cfed18d7a180b0a37d82e7b29612ed161f060ab19b281561a73d85b521a4d"
+    },
+    {
+      "path": "gd-g3-part2-apology_master.mp4",
+      "bytes": 29624318,
+      "sha256": "621d3f8b3fe79fb1d2258d646b5731f7479cea50866d99b058d7e4f56d6406ff"
+    },
+    {
+      "path": "gd-g3-part3-encore_master.mp4",
+      "bytes": 26256813,
+      "sha256": "8b5c6c9ace6fe8101f5e7fe09775c4f551351378f2584d74cb142cda396e83de"
+    },
+    {
+      "path": "index.html",
+      "bytes": 3346,
+      "sha256": "b63aa8c56d654e787457d6d7a9bea97c368e55afbc59d2afc86f21e75daac838"
+    },
+    {
+      "path": "posters/gd-g3-part1-delay.jpg",
+      "bytes": 37419,
+      "sha256": "f28909f9a150293213ccb935f12bcdeebcf034453618c62275ff1e5cebe9730e"
+    },
+    {
+      "path": "posters/gd-g3-part2-apology.jpg",
+      "bytes": 34482,
+      "sha256": "0c00352ccedf3c226a70542413d4b579916d61cbc0fb460e40a3e65fe1a8d787"
+    },
+    {
+      "path": "posters/gd-g3-part3-encore.jpg",
+      "bytes": 40254,
+      "sha256": "0878139f0ee10b5b9d873846d034d77d59c6b4addf825a32387bccfe07a0aa7c"
+    }
+  ]
+}
